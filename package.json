@@ -1,0 +1,21 @@
+{
+  "name": "decentraland",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chatandshare/random-song": "^1.0.0",
+    "axios": "^1.3.5",
+    "billboard-top-100": "^2.6.5",
+    "bpm2spotify": "^0.0.7",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^9.0.0",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
